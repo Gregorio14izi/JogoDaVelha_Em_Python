@@ -38,3 +38,10 @@ Implementação simples de um jogo da velha para 2 jogadores no terminal.
 
 * Mostra o tabuleiro a cada rodada
 * Exibe vencedor ou empate ao final
+## Velha:
+
+<img width="355" height="68" alt="Velha" src="https://github.com/user-attachments/assets/039f2e3d-6363-4cae-8fc4-a1461397b869" />
+
+## Vitória:
+
+<img width="323" height="92" alt="Vitoria" src="https://github.com/user-attachments/assets/fc990fec-6a4f-4222-bf92-48e2c6394dc3" />
