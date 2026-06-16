@@ -1,5 +1,7 @@
 # 🎮 Jogo da Velha em Python
 
+<img width="800" height="418" alt="demo" src="https://github.com/user-attachments/assets/a670a624-1205-4cfe-9f72-712815d79c69" />
+
 Implementação simples de um jogo da velha para 2 jogadores no terminal.
 
 ## ▶️ Como jogar
