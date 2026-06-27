@@ -84,4 +84,4 @@ print(f"{mostrar(tabuleiro[6])}{mostrar(tabuleiro[7])}{mostrar(tabuleiro[8])}")
 if havencedor:
     print(f"O Morato é muito legal, e parabéns pela vitória jogador {jogadorDaVez}" )
 else:
-    print("Deu a mãe do Marraaaaaaaaaaaaa")
+    print("Deu VELHA!!")
